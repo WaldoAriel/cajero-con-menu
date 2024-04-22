@@ -1,3 +1,9 @@
+//Urey, Jesica Belen
+//Rocha, Ignacio Jose
+//Nieva, Ivan
+//Torres, Pablo
+//Fernández, Waldo
+
 let usuario;
 let saldoCuenta = 0;
 let mostrarMenu = true;
