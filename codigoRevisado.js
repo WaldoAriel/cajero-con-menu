@@ -18,7 +18,7 @@ function nombreUsuario() {
 
 //Menu
 function menuSwitch() {
-    let menu = parseInt(prompt(`Bienvenido ${usuario}!\n🔽 Seleccioná una opción, presionando:\n\n1️⃣  Para realizar un depósito en tu cuenta\n2️⃣  Para consultar saldo\n3️⃣  Para realizar una extracción\n4️⃣  Para salir\n`));
+    let menu = parseInt(prompt(`Bienvenid@ ${usuario}!\n🔽 Seleccioná una opción, presionando:\n\n1️⃣  Para realizar un depósito en tu cuenta\n2️⃣  Para consultar saldo\n3️⃣  Para realizar una extracción\n4️⃣  Para salir\n`));
     switch (menu) {
         case 1:
             ingresarSaldo();
